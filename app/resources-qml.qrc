@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/TemplateList.qml</file>
+        <file>qml/storage.js</file>
+        <file>qml/URLDialog.qml</file>
+        <file>qml/TemplateConfiguration.qml</file>
+        <file>qml/TemplateModeSelector.qml</file>
+        <file>qml/TemplateRendererContainer.qml</file>
+    </qresource>
+</RCC>

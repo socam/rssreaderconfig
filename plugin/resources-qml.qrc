@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/TemplateRenderer.qml</file>
+        <file>qml/TemplateCell.qml</file>
+    </qresource>
+</RCC>

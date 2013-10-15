@@ -1,0 +1,7 @@
+module es.zed.socam.rssreader
+plugin rssreader
+Cell 1.0 TemplateCell.qml
+TemplateRenderer 1.0 TemplateRenderer.qml
+TemplateCellPreview 1.0 TemplateCellPreview.qml
+TemplateCellContent 1.0 TemplateCellContent.qml
+RSSWindow 1.0 RSSWindow.qml
